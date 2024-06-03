@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-with-node-and-sqlite",
+  "version": "1.0.0",
+  "description": "REST API with Node.js and sqlite3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "singhhr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
